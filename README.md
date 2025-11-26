@@ -51,7 +51,7 @@ This structure contains:
 
 ## The Result UI 
 
-https://github.com/kanmani162/Task/blob/5172fac78f8a3b57fe9a0da63c65f303cbaa6812/Screenshot%20.png
+![image atl](https://github.com/kanmani162/Task/blob/5172fac78f8a3b57fe9a0da63c65f303cbaa6812/Screenshot%20.png)
 
 
 
